@@ -9,7 +9,7 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Kluggis-Repo</summary>
-        <description>Install epo und Wizard von Kluggi</description>
+        <description>Install Repo und Wizard von Kluggi</description>
         <disclaimer />
         <platform>all</platform>
         <assets>
