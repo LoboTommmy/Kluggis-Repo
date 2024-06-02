@@ -17,4 +17,21 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon></addons>
+</addon></addons>id="1needmay2024" name="1needmay2024" version="1.0" provider-name="LoboTommmy">
+    <extension point="xbmc.addon.repository" name="Example Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/LoboTommmy/1needmay2024/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/LoboTommmy/1needmay2024/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/LoboTommmy/1needmay2024/master/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>1needmay2024</summary>
+        <description>Installation der notwendigen tools</description>
+        <disclaimer />
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
